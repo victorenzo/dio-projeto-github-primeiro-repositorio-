@@ -1,0 +1,1 @@
+Atalhos e comandos utilizados no VS Code
